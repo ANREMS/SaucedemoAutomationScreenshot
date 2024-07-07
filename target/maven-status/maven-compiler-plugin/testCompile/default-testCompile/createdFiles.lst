@@ -1,0 +1,9 @@
+step_definitions\Hooks.class
+step_definitions\checkout_and_cart_page\ResetAppStateFromCart.class
+step_definitions\RunCukesTest.class
+step_definitions\checkout_and_cart_page\CheckoutItemFromCart.class
+step_definitions\login_page\LoginWithInvalidData.class
+step_definitions\home_page\FilterItem.class
+step_definitions\home_page\AddingItemToCart.class
+step_definitions\login_page\LoginWithValidData.class
+step_definitions\checkout_and_cart_page\RemoveItemFromCart.class
